@@ -7,6 +7,8 @@ CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centri
 <h3>
 <a href="https://yokinglou.github.io">Yujing Lou</a>, Zelin Ye, <a href="https://qq456cvb.github.io">Yang You</a>, Nianjuan Jiang, Jiangbo Lu, Weiming Wang, <a href="https://dmcv.sjtu.edu.cn/">Lizhuang Ma</a>, <a href="https://www.mvig.org/">Cewu Lu</a>
 <br>
+AAAI 2023 (<font color="#FF0000">Oral</font>)
+<br>
 <br>
 <a href='#'>
   <img src='https://img.shields.io/badge/Arxiv-PDF-red?style=flat&logo=arxiv&logoColor=red' alt='Paper PDF'>
