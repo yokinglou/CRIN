@@ -32,6 +32,8 @@ In this paper, we propose the CRIN, namely Centrifugal Rotation-Invariant Networ
 Coming soon.
 
 ## Citation
+If you find our work useful, please consider citing
+
 ```bibtex
 @inproceedings{lou2023crin,
   title={CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame},
