@@ -35,7 +35,7 @@ Coming soon.
 ```bibtex
 @inproceedings{lou2023crin,
   title={CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame},
-  author={Lou, Yujing and Ye, Zelin and You, Yang and  Jiang, Nianjuan and Lu, Jiangbo and Wang, Weiming and Ma, Lizhuang and Lu, Cewu},
+  author={Lou, Yujing and Ye, Zelin and You, Yang and Jiang, Nianjuan and Lu, Jiangbo and Wang, Weiming and Ma, Lizhuang and Lu, Cewu},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={37},
   year={2023}
