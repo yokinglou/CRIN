@@ -10,10 +10,10 @@ CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centri
 AAAI 2023 (<font color="#FF0000">Oral</font>)
 <br>
 <br>
-<a href='#'>
+<a href='https://arxiv.org/abs/2303.03101'>
   <img src='https://img.shields.io/badge/Arxiv-PDF-red?style=flat&logo=arxiv&logoColor=red' alt='Paper PDF'>
 </a>
-<a href='#'>
+<a href='https://arxiv.org/pdf/2303.03101.pdf'>
   <img src='https://img.shields.io/badge/Paper-Page-green?style=flat&logo=googlechrome&logoColor=green' alt='Paper'>
 </a>
 <a href='#'>
@@ -37,11 +37,12 @@ Coming soon.
 If you find our work useful, please consider citing
 
 ```bibtex
-@inproceedings{lou2023crin,
-  title={CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame},
-  author={Lou, Yujing and Ye, Zelin and You, Yang and Jiang, Nianjuan and Lu, Jiangbo and Wang, Weiming and Ma, Lizhuang and Lu, Cewu},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={37},
-  year={2023}
+@misc{lou2023crin,
+      title={CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame}, 
+      author={Yujing Lou and Zelin Ye and Yang You and Nianjuan Jiang and Jiangbo Lu and Weiming Wang and Lizhuang Ma and Cewu Lu},
+      year={2023},
+      eprint={2303.03101},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
