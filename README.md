@@ -37,12 +37,10 @@ Coming soon.
 If you find our work useful, please consider citing
 
 ```bibtex
-@misc{lou2023crin,
-      title={CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame}, 
-      author={Yujing Lou and Zelin Ye and Yang You and Nianjuan Jiang and Jiangbo Lu and Weiming Wang and Lizhuang Ma and Cewu Lu},
-      year={2023},
-      eprint={2303.03101},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{lou2023crin,
+  title={CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame},
+  author={Lou, Yujing and Ye, Zelin and You, Yang and Jiang, Nianjuan and Lu, Jiangbo and Wang, Weiming and Ma, Lizhuang and Lu, Cewu},
+  journal={arXiv preprint arXiv:2303.03101},
+  year={2023}
 }
 ```
